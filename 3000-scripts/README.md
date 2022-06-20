@@ -1,6 +1,5 @@
-# how-we-forked-nano
-109GB data.ldb available on request + donation via https://t.me/everyyoga
 ### LY3000: The Initial Coin Distribution of X Currency
+
 
 Steps to reproduce:
 - Download and follow installation instructions at https://github.com/nanocurrency/nanodb-specification/ to query the Nano ledger database.

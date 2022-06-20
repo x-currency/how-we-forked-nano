@@ -1,0 +1,7 @@
+dump/44M_accounts.txt:account          : nano_37rzixiy3xghotqpafhpahhu5i8n9st5rjg3dym6wmz54g4oh7bm3ycp9xh6
+dump/44M_accounts.txt-  head block     : 458344F6772DAC4EB1975610CD87D099019F456AD7201977DAA35B655164F976
+dump/44M_accounts.txt-  open block     : 388B3D730D0AC00041EADC1074CA1C08EC017AFAE5ECD77F1E6A997E39DE9666
+dump/44M_accounts.txt-  balance        : 2310285121340000000000000000000000
+dump/44M_accounts.txt-  block count    : 8
+dump/44M_accounts.txt-  last modified  : 2022-06-02 12:25:31
+dump/44M_accounts.txt-  representative : nano_1my1snode8rwccjxkckjirj65zdxo6g5nhh16fh6sn7hwewxooyyes
