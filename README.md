@@ -3,10 +3,10 @@ List available at https://x-currency.org/3000.txt
 
 ### LY3000: The Initial Coin Distribution of X Currency
 
-Steps to reproduce:
+Steps to reproduce (although with different inputs):
+- Run a Nano Node using Docker to create your data.ldb file (+100GB)
 - Download and follow installation instructions at https://github.com/nanocurrency/nanodb-specification/ to query the Nano ledger database.
-- Download data.ldb (109GB) (request + donation required)
-- Run accounts query with 33M and 44M count (to double check if all the rows are retrieved) and print to create your nanodump.txt file.
+- Run accounts query with 33M and 44M count or higher (to double check if all the rows are retrieved) and print to create your nanodump.txt file.
 
 
 #### 1. Calculate Total Balance of Eligeable Nano Addressess (between 6 and 3000 XNO):
