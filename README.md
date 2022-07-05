@@ -1,5 +1,6 @@
 # how-we-forked-nano
-109GB data.ldb available on request + donation via https://t.me/everyyoga
+List available at https://x-currency.org/3000.txt
+
 ### LY3000: The Initial Coin Distribution of X Currency
 
 Steps to reproduce:
